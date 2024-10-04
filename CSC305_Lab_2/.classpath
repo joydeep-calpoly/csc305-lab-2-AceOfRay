@@ -7,5 +7,9 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/rayra/CalPoly/CSC305/lab-2-AceOfRay/CSC305_lab_2/lib/json-20240303.jar"/>
+	<classpathentry kind="lib" path="C:\Users\rayra\CalPoly\CSC305\lab-2-AceOfRay\CSC305_Lab_2\lib\jackson-annotations-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:\Users\rayra\CalPoly\CSC305\lab-2-AceOfRay\CSC305_Lab_2\lib\jackson-core-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:\Users\rayra\CalPoly\CSC305\lab-2-AceOfRay\CSC305_Lab_2\lib\jackson-databind-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:\Users\rayra\CalPoly\CSC305\lab-2-AceOfRay\CSC305_Lab_2\lib\java-json.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
